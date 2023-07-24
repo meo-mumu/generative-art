@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+
+# Fichiers d'environnement (ne pas les inclure dans le dépôt)
+.env
+.env.*
+
+# Fichiers de sauvegarde de l'éditeur
+.vscode/
+*.swp
+*.swo
+
+# Fichiers de build
+dist/
+build/
+out/
